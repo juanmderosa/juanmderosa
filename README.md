@@ -9,8 +9,7 @@ Soy una persona creativa, curiosa y orientada a resultados. Me encanta enfrentar
 
 ## 🌐 Website & Linkdin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanmderosa/) 
-[![Website]([[https://img.shields.io/badge/Website](https://img.shields.io/badge/Website-purple](https://img.shields.io/badge/Website?color=purple
-)))](https://juanmderosa-developer.com/)
+[![Static Badge](https://img.shields.io/badge/Website?color=purple)]([juanmderosa-developer.com](https://juanmderosa-developer.com/))
 
 
 
